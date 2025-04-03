@@ -1,4 +1,4 @@
-Imagine you are developing an online marketplace where buyers and sellers need to create an account to participate. The platform requires new users to register by providing their username, email, and password. To ensure security, the password must be hashed before storing it in the database. 
+Imagine you are developing an online marketplace where buyers and sellers need to create an account to participate. The platform requires new users to register by providing their username, email, and password. To ensure security, the password must be hashed before storing it in the database.
 
 - Use mongoose to connect to database.
 - Write an backend endpoint that will get the username, mail and password.
